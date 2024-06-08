@@ -1,0 +1,13 @@
+#inicio {
+    background-color: #0a0a0a;
+    color: #f4f1f1;
+    font-family:Courier;
+}
+#cuerpo {
+    background-color:#1d43ad;
+    color: #000;
+    text-indent: 10px; }
+#final {
+    background-color: #1d43ad;
+    color: #000;
+    text-align: justify; }
